@@ -15,9 +15,9 @@ export interface UserState {
 export function defaultSetting(): UserState {
   return {
     userInfo: {
-      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
-      name: '科技小飞哥',
-      description: 'Youtube频道 <a href="https://www.youtube.com/@techxiaofei" class="text-blue-500" target="_blank" >科技小飞哥</a>',
+      avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/tubiao.jpg',
+      name: '桂伟在线',
+      description: 'gwzx学习交流 <a href="http://23.251.53.175" class="text-blue-500" target="_blank" >155-0771-6562</a>',
     },
   }
 }
